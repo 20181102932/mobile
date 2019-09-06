@@ -30,7 +30,7 @@ if(name != "admin")
  else{
  print("用户名不正确")
  }
- */
+ 
 var index = 0
 switch index {
 case 100 :
@@ -42,3 +42,12 @@ case 5:
 default :
     print("默认 case")
 }
+*/
+var sum=0;
+var i=0;
+while(i<101)
+{
+    sum = sum+i
+    i=i+1 ;
+}
+print(sum)
