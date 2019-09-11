@@ -93,7 +93,7 @@ while(num != "end")
      num = readLine()!
 }
 print(big)
-*/
+
 var numStr = ""
 var num = 0
 var max = 0
@@ -110,3 +110,7 @@ while numStr != "end"
     }
 }
 print("您输入的数字中的最大值为:\(max)")
+*/
+for index in 1...100{
+    print(index)
+}
