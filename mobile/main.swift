@@ -112,5 +112,5 @@ while numStr != "end"
 print("您输入的数字中的最大值为:\(max)")
 */
 for index in 1...100{
-    print(index)
+    print(index     )
 }
